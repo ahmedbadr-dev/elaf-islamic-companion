@@ -1,0 +1,40 @@
+{
+  "name": "elaf-islamic-companion",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Elaf — Islamic companion mobile app (React, Capacitor, Firebase)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "oxfmt",
+    "cap:sync": "npm run build && npx cap sync && node scripts/copy-adhan-native.mjs",
+    "adhan:copy": "node scripts/copy-adhan-native.mjs"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.1",
+    "@capacitor/app": "^8.1.1",
+    "@capacitor/cli": "^8.5.1",
+    "@capacitor/core": "^8.5.1",
+    "@capacitor/geolocation": "^8.2.2",
+    "@capacitor/haptics": "^8.0.2",
+    "@capacitor/local-notifications": "^8.3.1",
+    "@capgo/capacitor-nfc": "^8.2.6",
+    "capacitor-native-settings": "^8.2.0",
+    "firebase": "^12.19.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^6.0.0",
+    "oxfmt": "^0.2.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.0",
+    "vite": "^8.0.5"
+  }
+}

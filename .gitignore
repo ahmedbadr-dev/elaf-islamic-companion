@@ -1,0 +1,34 @@
+node_modules/
+dist/
+build/
+.cache/
+.env
+.env.*
+!.env.example
+.vite/
+vite.config.*.timestamp-*
+*.tsbuildinfo
+*-debug.log*
+logs/
+*.log
+.claude-replay.*
+.tmp-*
+.data/
+/.figma/design-context/
+
+# Android / APK artifacts
+*.apk
+*.aab
+*.ap_
+android/app/build/
+android/.gradle/
+android/build/
+android/local.properties
+android/captures/
+*.iml
+.idea/
+.DS_Store
+
+# Platform-managed agentplat state, not project source.
+/.plugins/
+/.opencode-skills/

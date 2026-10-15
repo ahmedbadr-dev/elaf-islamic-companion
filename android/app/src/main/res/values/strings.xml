@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">إيلاف</string>
+    <string name="title_activity_main">إيلاف</string>
+    <string name="package_name">com.elaf.islamiccompanion</string>
+    <string name="custom_url_scheme">com.elaf.islamiccompanion</string>
+</resources>

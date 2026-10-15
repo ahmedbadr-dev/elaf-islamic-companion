@@ -1,0 +1,10 @@
+{
+  "description": "A serene Islamic companion app offering prayer times, Quran recitations, Athkar, and NFC integration with luxury spiritual devices for mindful worship.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

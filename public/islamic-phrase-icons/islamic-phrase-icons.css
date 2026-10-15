@@ -1,0 +1,49 @@
+[data-ip] {
+	width: 1em;
+	display: inline-flex;
+	align-items: center;
+	transform: translateY(25%);
+}
+[data-ip="awj"] {
+	width: 2em;
+	transform: translateY(20%);
+}
+[data-ip="sta"] {
+	width: 4em;
+}
+[data-ip="tta"] {
+	width: 3em;
+}
+[data-ip="saw"] {
+	width: 4em;
+}
+[data-ip="ahis"] {
+	width: 3em;
+}
+[data-ip="ahims"] {
+	width: 3em;
+}
+[data-ip="rdhu"] {
+	width: 3em;
+}
+[data-ip="rdhuma"] {
+	width: 3em;
+}
+[data-ip="rdhum"] {
+	width: 3em;
+}
+[data-ip="rdha"] {
+	width: 3em;
+}
+[data-ip="rdhuna"] {
+	width: 3em;
+}
+[data-ip="rhmhu"] {
+	width: 3em;
+	transform: translateY(20%);
+}
+
+[data-ip] svg {
+	height: 1em;
+	fill: var(--ip-color,currentColor);
+}
