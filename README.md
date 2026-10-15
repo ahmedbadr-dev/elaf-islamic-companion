@@ -156,6 +156,8 @@ Built as a production-minded Islamic lifestyle / companion product — combining
 
 Bug reports and pull requests are welcome. Prefer a short PR description and keep changes focused.
 
+Thanks for starring the repo if you find it useful.
+
 ---
 
 ## License
