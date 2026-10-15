@@ -150,6 +150,12 @@ Built as a production-minded Islamic lifestyle / companion product — combining
 
 ---
 
+## Contributing
+
+Bug reports and pull requests are welcome. Prefer a short PR description and keep changes focused.
+
+---
+
 ## License
 
 Private portfolio use by default. Contact the author if you need other terms.
