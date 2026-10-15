@@ -143,6 +143,8 @@ firebase deploy --only firestore:rules
 - [ ] Dashboard authentication  
 - [ ] Play Store release build & signing  
 - [ ] iOS Capacitor target  
+- [ ] Accessibility pass (larger tap targets, screen-reader labels)  
+
 
 ---
 
