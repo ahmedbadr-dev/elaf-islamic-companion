@@ -4,6 +4,12 @@
 
 > Portfolio project showcasing full-stack mobile product work: native Android packaging, Firebase auth & Firestore, location-aware prayer times, NFC hardware flows, local notifications, and a consent-based ops dashboard.
 
+<p align="center">
+  <img src="docs/elaf-home.png" alt="Elaf home screen — prayer countdown, Quran preview, and navigation" width="320" />
+</p>
+
+<p align="center"><em>Home — next prayer, location-aware times, Mushaf preview, and Qibla</em></p>
+
 ---
 
 ## Highlights
