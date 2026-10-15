@@ -2,6 +2,8 @@
 
 **Elaf** is a modern Islamic companion mobile app built with React, Vite, and Capacitor. It brings prayer times, Quran reading, digital dhikr, live streams, NFC-powered PRO features, and an AI assistant into one polished Android experience.
 
+**Repo:** [ahmedbadr-dev/elaf-islamic-companion](https://github.com/ahmedbadr-dev/elaf-islamic-companion)
+
 > Portfolio project showcasing full-stack mobile product work: native Android packaging, Firebase auth & Firestore, location-aware prayer times, NFC hardware flows, local notifications, and a consent-based ops dashboard.
 
 <p align="center">
