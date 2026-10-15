@@ -14,7 +14,6 @@ logs/
 .claude-replay.*
 .tmp-*
 .data/
-/.figma/design-context/
 
 # Android / APK artifacts
 *.apk
@@ -28,7 +27,3 @@ android/captures/
 *.iml
 .idea/
 .DS_Store
-
-# Platform-managed agentplat state, not project source.
-/.plugins/
-/.opencode-skills/
