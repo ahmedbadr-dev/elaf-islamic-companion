@@ -8,7 +8,7 @@
   <img src="docs/elaf-home.png" alt="Elaf home screen — prayer countdown, Quran preview, and navigation" width="320" />
 </p>
 
-<p align="center"><em>Home — next prayer, location-aware times, Mushaf preview, and Qibla</em></p>
+<p align="center"><em>Home screen — next prayer countdown, location-aware times, Mushaf preview, and Qibla</em></p>
 
 ---
 
